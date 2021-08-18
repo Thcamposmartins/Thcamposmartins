@@ -1,4 +1,4 @@
-## Ei, eu sou a Thaís Martins !
+## Ei, meu nome é Thaís !
  <div>
   <a href="https://github.com/Thcamposmartins">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thcamposmartins&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
